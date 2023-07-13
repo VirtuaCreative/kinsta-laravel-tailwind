@@ -1,0 +1,1 @@
+This repo contains the a sample codebase for a Laravel Tailwind application. It was created for the tutorial [How To Make Beautiful Pages Using Tailwind CSS and Laravel](), published on the [Kinsta blog](https://kinsta.com/blog/).
